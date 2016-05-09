@@ -82,6 +82,7 @@ userNameInput.onkeydown = (event) => {
         '{userName}のいいところは気配りです。{userName}配慮が多くの人を救っています。',
         '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
         '{userName}のいいところは自制心です。やばいと思った時にしっかりと衝動を抑えられる{userName}が皆から評価されています。'
+        '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。'
     ]
 
 
